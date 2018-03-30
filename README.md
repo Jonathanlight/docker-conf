@@ -1,10 +1,6 @@
 # NUNSHEN
 
-Ce projet est constitué d'une base Docker, d'une application Magento 2.
-
-## Why ?
-
-Outil métier permettant la gestion des contrôles techniques auprès des clients (référentiel client, planification contrôles, suivi, rapports officiels..)
+Ce projet est constitué d'une base Docker pour application PHP.
 
 ## Requirements
 
@@ -46,11 +42,3 @@ phpmyadmin:
   ports:
     - "8012:80"
 ```
-
-## Author / Maintainers
-
-- Design: Sofia Rodrigues Dantas
-- Gestion de projet: Audrey Dieulle
-- Design: Olivier Marillier
-- Développement: Jonathan KABLAN
-- Gestion de projet: Pierre Edouard Bardet
